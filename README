@@ -1,0 +1,33 @@
+##################################################
+#####                                        #####
+#####     Gappy-Bot::Phone Gap Experiment    #####
+#####                                        #####
+##################################################
+
+##################################################
+              Table of Contents
+##################################################
+
+1. Introduction [INTRO]
+2. What To Do   [TO-DO]
+
+##################################################
+              Introduction  [INTRO]
+##################################################
+
+The Gappy-Bot is for sandbox purposes only.
+It is meant to be a way to assist in designing
+mobile applications using Phone Gap. At the moment
+the only available platform is the Android 4.0.3
+but hopefully the other platforms will be 
+available as well.
+
+##################################################
+              What to Do    [TO-DO]
+##################################################
+
+Simply assist in making your own functions or
+methods to add to the Gappy-Bot, the repository
+is meant to show sample code and other such
+functionalities so that users may be able to 
+create and develop their own mobile applications.
